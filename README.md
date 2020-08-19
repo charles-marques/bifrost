@@ -1,6 +1,8 @@
 # BiFroS<T> Project
 
-O BiFroS<\T> é um projeto para identificação de viés em softwares.[pt-BR]
+<pre>
+O BiFroS<T> é um projeto para identificação de viés em softwares.
+</pre>
 
 ## Description
 A questão do viés em software tem se tornado cada vez mais importante, especialmente na atualidade com o amplo uso de Machine Learning na qual cada vez mais algoritmos tem substituído pessoas na tomada de decisões. Diversos estudos tem tratado da questão e abordado tanto os fatores causadores como também suas consequências. 
