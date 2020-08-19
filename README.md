@@ -13,6 +13,6 @@ A mesma tem como propósito identificar quais são as classes pessoas de um proj
 Para executar a ferramenta basta seguir os passos da documentação do exemplo:
 ![/example/README.md](/example/README.md)
 
-## References
-ZEHLIKE, Meike et al. Fa* ir: A fair top-k ranking algorithm. In: Proceedings of the 2017 ACM on Conference on Information and Knowledge Management. 2017. p. 1569-1578.
+## References 
+ZEHLIKE, Meike et al. Fa* ir: A fair top-k ranking algorithm. In: Proceedings of the 2017 ACM on Conference on Information and Knowledge Management. 2017. p. 1569-1578. 
 SULLIVAN, D.; CAMINHA, C.; DANTAS, V.; FURTADO, E.; FURTADO, V.; ALMEIDA, V.Understanding the impact of the alphabetical ordering of names in user interfaces: a gender biasanalysis.arXiv:2007.04361, 2020.
