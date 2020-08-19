@@ -11,7 +11,7 @@ A concepção desta ferramenta está embasada no fenômeno do viés induzido pel
 A mesma tem como propósito identificar quais são as classes pessoas de um projeto, e uma vez identificadas, verificar onde ocorrem no código ordenações de listas dessas classes, ou seja, ordenações de listas de pessoas o que incorre nos dois casos de viés: ordenação e top-k elementos.
 
 Para executar a ferramenta basta seguir os passos da documentação do exemplo:
-![](/example/README.md)
+![/example/README.md](/example/README.md)
 
 ## References
 ZEHLIKE, Meike et al. Fa* ir: A fair top-k ranking algorithm. In: Proceedings of the 2017 ACM on Conference on Information and Knowledge Management. 2017. p. 1569-1578.
